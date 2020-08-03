@@ -1,3 +1,3 @@
 # [VÝVOJ UKONČEN / DEVELOPEMENT CLOSED]
 # passwordManager
-Aplikace na uchování hesel.
+Aplikace na uchování hesel pro osobní použití.
